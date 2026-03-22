@@ -43,17 +43,17 @@ Preparation incluse dans le projet :
 
 ## Fichiers du projet
 
-- [Projet_Final_Analyse_Donnees.ipynb](/Users/christophe.dibi/Documents/DIT/MASTER 1 - FINANCE DIGITALE - OCT 2025/PYTHON/Projet final/Projet_Final_Analyse_Donnees.ipynb) : fichier `.ipynb` complet
-- [app.py](/Users/christophe.dibi/Documents/DIT/MASTER 1 - FINANCE DIGITALE - OCT 2025/PYTHON/Projet final/app.py) : application Streamlit
-- [Dataset.csv](/Users/christophe.dibi/Documents/DIT/MASTER 1 - FINANCE DIGITALE - OCT 2025/PYTHON/Projet final/Dataset.csv) : jeu de donnees
-- [requirements.txt](/Users/christophe.dibi/Documents/DIT/MASTER 1 - FINANCE DIGITALE - OCT 2025/PYTHON/Projet final/requirements.txt) : dependances necessaires
+- `Projet_Final_Analyse_Donnees.ipynb` : fichier `.ipynb` complet
+- `app.py` : application Streamlit
+- `Dataset.csv` : jeu de donnees
+- `requirements.txt` : dependances necessaires
 
 ## Utilisation en local
 
 Se placer dans le dossier du projet :
 
 ```bash
-cd "/Users/christophe.dibi/Documents/DIT/MASTER 1 - FINANCE DIGITALE - OCT 2025/PYTHON/Projet final"
+cd "Projet final"
 ```
 
 Installer les dependances :
